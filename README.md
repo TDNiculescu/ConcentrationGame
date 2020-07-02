@@ -1,2 +1,0 @@
-# ConcentrationGame
-Concentration Game
